@@ -539,7 +539,6 @@ total_oi_s5_time = 0.0
 
 
 
-"""
 
 
 train_folder_prefix = ""
@@ -870,6 +869,12 @@ print("\n\n\n\n  largest: \n", i_buffer)
 for x in range(0, 0 + i_buffer, 1):
     print("", img_info_set_sorted[x])
 
+	
+	
+	
+	
+	
+	
 """
 
 
@@ -888,7 +893,7 @@ img_idx = 13
 img_idx = 16
 img_idx = 33071
 i_out_max_wh, out_arr, out_region_area = op_img(img_idx, exp_folder_prefix, True, True)
-
+"""
 
 #op_img(27, "./ceshi/")
 
