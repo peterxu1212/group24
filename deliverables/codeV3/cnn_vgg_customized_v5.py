@@ -40,7 +40,7 @@ SMALL_DATA_SIZE = 1
 
 i_image_size = 64
 
-b_dl_new_or_old = True
+b_dl_new_or_old = False
 
 
 str_folder = "../input/comp-551-w2019-project-3-modified-mnist/"
